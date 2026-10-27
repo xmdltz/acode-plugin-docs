@@ -16,6 +16,7 @@
   },
   "overrides": {
     "@algolia/autocomplete-plugin-algolia-insights": "1.15.1",
+    "@vue/shared": "3.5.40",
   },
   "packages": {
     "@algolia/autocomplete-core": ["@algolia/autocomplete-core@1.9.3", "", { "dependencies": { "@algolia/autocomplete-plugin-algolia-insights": "1.9.3", "@algolia/autocomplete-shared": "1.9.3" } }, "sha512-009HdfugtGCdC4JdXUbVJClA0q0zh24yyePn+KUGk3rP7j8FEe/m5Yo/z65gn6nP/cM39PxpzqKrL7A6fP6PPw=="],
@@ -206,7 +207,7 @@
 
     "@vue/server-renderer": ["@vue/server-renderer@3.4.27", "", { "dependencies": { "@vue/compiler-ssr": "3.4.27", "@vue/shared": "3.4.27" }, "peerDependencies": { "vue": "3.4.27" } }, "sha512-dlAMEuvmeA3rJsOMJ2J1kXU7o7pOxgsNHVr9K8hB3ImIkSuBrIdy0vF66h8gf8Tuinf1TK3mPAz2+2sqyf3KzA=="],
 
-    "@vue/shared": ["@vue/shared@3.4.27", "", {}, "sha512-DL3NmY2OFlqmYYrzp39yi3LDkKxa5vZVwxWdQ3rG0ekuWscHraeIbnI8t+aZK7qhYqEqWKTUdijadunb9pnrgA=="],
+    "@vue/shared": ["@vue/shared@3.5.40", "", {}, "sha512-WxnBtruIqOoV3rA4jeKDWzrYI5h7Cp4+pjwDi8kWGHz+IslhiN+wguLVVhtv2l8VoU02rzDCVfDjgCl1lNpZVg=="],
 
     "@vueuse/core": ["@vueuse/core@10.10.0", "", { "dependencies": { "@types/web-bluetooth": "0.0.20", "@vueuse/metadata": "10.10.0", "@vueuse/shared": "10.10.0", "vue-demi": "0.14.8" } }, "sha512-vexJ/YXYs2S42B783rI95lMt3GzEwkxzC8Hb0Ndpd8rD+p+Lk/Za4bd797Ym7yq4jXqdSyj3JLChunF/vyYjUw=="],
 
